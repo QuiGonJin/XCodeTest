@@ -18,7 +18,8 @@ import SwiftUI
  */
 let developers = [
     Developer(id:1001, codeName: "Buck", profileImageName: "scv", aboutText: "woo hoo!"),
-    Developer(id:1002, codeName: "Sheila", profileImageName: "medic", aboutText: "need some triage?")
+    Developer(id:1002, codeName: "Sheila", profileImageName: "medic", aboutText: "need some triage?"),
+    Developer(id:1003, codeName: "New User!", profileImageName: "scv", aboutText: "lalala")
 ]
 
 
