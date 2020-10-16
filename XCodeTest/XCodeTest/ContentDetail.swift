@@ -22,6 +22,6 @@ struct ContentDetail: View {
 
 struct ContentDetail_Previews: PreviewProvider {
     static var previews: some View {
-        ContentDetail(contentText: "Default Text")
+        ContentDetail(contentText: "Testing Reclone! Text")
     }
 }
